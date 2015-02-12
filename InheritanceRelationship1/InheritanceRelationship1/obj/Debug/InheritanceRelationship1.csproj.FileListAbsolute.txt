@@ -1,0 +1,6 @@
+D:\asp.net\11.2.15\InheritanceRelationship1\InheritanceRelationship1\bin\Debug\InheritanceRelationship1.exe.config
+D:\asp.net\11.2.15\InheritanceRelationship1\InheritanceRelationship1\bin\Debug\InheritanceRelationship1.exe
+D:\asp.net\11.2.15\InheritanceRelationship1\InheritanceRelationship1\bin\Debug\InheritanceRelationship1.pdb
+D:\asp.net\11.2.15\InheritanceRelationship1\InheritanceRelationship1\obj\Debug\InheritanceRelationship1.csprojResolveAssemblyReference.cache
+D:\asp.net\11.2.15\InheritanceRelationship1\InheritanceRelationship1\obj\Debug\InheritanceRelationship1.exe
+D:\asp.net\11.2.15\InheritanceRelationship1\InheritanceRelationship1\obj\Debug\InheritanceRelationship1.pdb
